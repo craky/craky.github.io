@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Custom java funkce v Jasper Reports TIPCO"
+date:   2017-03-22
+categories: jasper
+---
+
 # Jasper reports TIBCO
 ## Definice
 * Použitá verze TIBCO jasper reports Studio: `6.3.1.Final`
